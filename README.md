@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi! 👋 I'm Yudis.
 
-<!--
-**yudis2/yudis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Human who loves study About New Technology and interested with artificial intelligence.. 
 
-Here are some ideas to get you started:
+I'm currently active in studying at  <a href="https://www.dicoding.com/users/yudisdwi">Dicoding Indonesia</a> to learn courses in Front-End Apps (Web, Android), Back-End Service and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Last Project E-Procurement#2 on [PT Krakatau Information Technology](https://eproc.krakatausteel.com/)
+- 🌱 I’m currently learning about Machine Learning for Data analyst
+- 💬 Feel free to ask me about web and android development
+- 📫 How to reach me: yudisdwi02@gmail.com
+- ⚡ Fun fact: Give me a coffe i'll give you a cup innovation
+
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://www.tensorflow.org/"><img align="left" alt="ML" title="TensorFlow" width="21px" src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/tensorflow/images/lockup.svg" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin Android" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="Php" title="PHP" width="21px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
+  
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/yudis2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudis2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudis2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Connect with me:
+
+[<img align="left" alt="yudisdwi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="yudisdwi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="yudisdwi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yudisdwi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://yudis2.github.io/
+[youtube]: https://www.youtube.com/channel/UCDnrmQb9O9IVdSFYLFs6PQw
+[instagram]: https://www.instagram.com/yudisdwi/
+[linkedin]: https://www.linkedin.com/in/yudisdwi/
