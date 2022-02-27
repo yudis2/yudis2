@@ -5,6 +5,7 @@ A Human who loves study About New Technology and interested with artificial inte
 I'm currently active in studying at  <a href="https://www.dicoding.com/users/yudisdwi">Dicoding Indonesia</a> to learn courses in Front-End Apps (Web, Android), Back-End Service and Machine Learning.
 
 - 🔭 Last Project E-Procurement#2 on [PT Krakatau Information Technology](https://eproc.krakatausteel.com/)
+- 🔭 On Progress E-Recruitment on [PT Pigeon Indonesia]
 - 🌱 I’m currently learning about Machine Learning for Data analyst
 - 💬 Feel free to ask me about web and android development
 - 📫 How to reach me: yudisdwi02@gmail.com
