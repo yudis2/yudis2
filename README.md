@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Yudis.
 
-A Human who loves study About New Technology and interested with artificial intelligence.. 
+Undergraduate student STTIKOM Insan Unggul who loves study About New Technology and interested with artificial intelligence.. 
 
 I'm currently active in studying at  <a href="https://www.dicoding.com/users/yudisdwi">Dicoding Indonesia</a> to learn courses in Front-End Apps (Web, Android), Back-End Service and Machine Learning.
 
