@@ -40,5 +40,5 @@ I'm currently active as a google student club, and dicoding indonesia
 
 [website]: https://yudis2.github.io/
 [youtube]: https://www.youtube.com/channel/UCDnrmQb9O9IVdSFYLFs6PQw
-[instagram]: https://www.instagram.com/yudisdwi/
+[instagram]: https://www.instagram.com/yudisdwi__/
 [linkedin]: https://www.linkedin.com/in/yudisdwi/
