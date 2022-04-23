@@ -2,7 +2,9 @@
 
 Undergraduate student STTIKOM Insan Unggul who loves study About New Technology and interested with Mobile Developer.. 
 
-I'm currently active as a google student club and this is page my google developer 
+I'm currently active as a google student club, and dicoding indonesia
+- [Google Developer Profile](g.dev/yudisdwi)
+- [Dicoding Profile](https://www.dicoding.com/users/yudisdwi)
 
 - 🔭 Last Project E-Procurement#2 on [PT Krakatau Information Technology](https://eproc.krakatausteel.com/)
 - 🔭 On Progress E-Recruitment on [PT Pigeon Indonesia]
