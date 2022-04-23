@@ -7,9 +7,9 @@ I'm currently active as a google student club, and dicoding indonesia
 - [Dicoding Profile](https://www.dicoding.com/users/yudisdwi)
 
 <!-- - 🔭 Last Project E-Procurement#2 on [PT Krakatau Information Technology](https://eproc.krakatausteel.com/)
-- 🔭 On Progress E-Recruitment on [PT Pigeon Indonesia] -->
+- 🔭 On Progress E-Recruitment on [PT Pigeon Indonesia] 
 - 🌱 I’m currently learning about Machine Learning for Data analyst
-- 💬 Feel free to ask me about web and android development
+- 💬 Feel free to ask me about web and android development -->
 - 📫 How to reach me: yudisdwi02@gmail.com
 - ⚡ Fun fact: Give me a coffe i'll give you a cup innovation
 
@@ -27,7 +27,6 @@ I'm currently active as a google student club, and dicoding indonesia
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/yudis2">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudis2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudis2&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
