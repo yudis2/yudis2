@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Yudis.
 
-Undergraduate student STTIKOM Insan Unggul who loves study About New Technology and interested with Mobile Developer.. 
+Undergraduate student Amikom Yogyakarta University who loves study About New Technology and interested with Computer Vision.. 
 
 I'm currently active as a google student club, and dicoding indonesia
 - [Google Developer Profile](https://developers.google.com/profile/u/yudisdwi)
