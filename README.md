@@ -23,7 +23,7 @@ I'm currently active as a Google Developer club, and dicoding indonesia
 </a>
 </p>
 
-### Other side of me :) :
+### Other side of me :)
 
 [<img align="left" alt="yudisdwi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="yudisdwi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -32,5 +32,5 @@ I'm currently active as a Google Developer club, and dicoding indonesia
 
 [website]: https://yudis2.github.io/
 [youtube]: https://www.youtube.com/channel/UCDnrmQb9O9IVdSFYLFs6PQw
-[instagram]: https://www.instagram.com/yudisdwi__/
+[instagram]: https://www.instagram.com/yudisdwi_/
 [linkedin]: https://www.linkedin.com/in/yudisdwi/
