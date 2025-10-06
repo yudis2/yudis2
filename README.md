@@ -2,7 +2,7 @@
 
 Graduate master degree Amikom Yogyakarta University Interested on Data Science.. 
 
-I'm currently active as a Google Developer club, and dicoding indonesia
+I'm was once as a Lead My Campus on Google Developer club, and currently active  dicoding indonesia
 - [Google Developer Profile](https://developers.google.com/profile/u/yudisdwi)
 - [Dicoding Profile](https://www.dicoding.com/users/yudisdwi)
 
